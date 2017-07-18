@@ -8,7 +8,7 @@
  * @author Vladimir Korovin <rolan1986@gmail.com>
  */
 
-namespace vakorovin\validators\macaddress;
+namespace makroxyz\validators\macaddress;
 
 use yii\validators\Validator;
 
