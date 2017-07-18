@@ -2,7 +2,7 @@
 	"name": "makroxyz/yii2-macaddress-validator",
 	"description": "Yii2 MAC-address validator",
 	"keywords": ["yii2", "extension", "yii2 validator", "mac", "mac-address"],
-	"homepage": "https://github.com/vakorovin/yii2-macaddress-validator",
+	"homepage": "https://github.com/makroxyz/yii2-macaddress-validator",
 	"type": "yii2-extension",
 	"license": "MIT",
 	"version": "1.2",

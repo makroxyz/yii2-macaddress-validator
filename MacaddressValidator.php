@@ -3,12 +3,12 @@
 /**
  * Yii2 MAC-address Validator
  * 
- * @link https://github.com/vakorovin/yii2-macaddress-validator
- * @license https://github.com/vakorovin/yii2-macaddress-validator/blob/master/LICENSE MIT
+ * @link https://github.com/makroxyz/yii2-macaddress-validator
+ * @license https://github.com/makroxyz/yii2-macaddress-validator/blob/master/LICENSE MIT
  * @author Vladimir Korovin <rolan1986@gmail.com>
  */
 
-namespace vakorovin\yii2_macaddress_validator;
+namespace makroxyz\yii2_macaddress_validator;
 
 use yii\validators\Validator;
 
